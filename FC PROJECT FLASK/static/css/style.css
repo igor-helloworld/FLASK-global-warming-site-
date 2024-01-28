@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(255, 0, 0);
+    margin-left: 40px;
+    font-family: "Cursive", "Courier New", monospace;
+  }
+h4 {
+    color:aqua;
+    margin-left: 50px;
+    font-family: "monospace","monospace",monospace;
+
+  }
+h3 {
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    font-family: "Cursive", "Courier New", monospace;
+  }
+h2 {
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    font-family: "Cursive", "Courier New", monospace;
+  }
